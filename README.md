@@ -2,6 +2,8 @@
 
 A lightweight Flutter plugin for capturing crash reports and application logs and sending them to popular platforms like **Webhook**, **Telegram**, **Slack**, or **Discord**.
 
+[Step-by-Step Guide to Build Real-Time Crash Reporting in Flutter.](https://www.sevensquaretech.com/flutter-crash-reporting-dashboard-with-github-code/)
+
 ---
 
 ## 🚀 Features
